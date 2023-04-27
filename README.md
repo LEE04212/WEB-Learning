@@ -3,3 +3,4 @@
 ## 1. 
   
 ## 2. 용어 모음
+CRUD : Create, Read, Update, Delete 기능
